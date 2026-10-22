@@ -45,3 +45,10 @@
 **/data/
 **/input/
 **/Database_backup/
+**/.conda/
+**/cdk.out/
+**/TOS_DI-*/
+**/darknet/
+**/labelImg-master/
+**/jTessBoxEditor*/
+**/Tesseract-OCR/
